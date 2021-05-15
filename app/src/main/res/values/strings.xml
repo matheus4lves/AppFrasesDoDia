@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">App Frases Do Dia</string>
+    <string name="btn">Gerar frase</string>
+    <string name="initial_txt">Pressione o botão para gerar uma nova frase!</string>
+    <string name="logo_description">Frase do Dia</string>
 </resources>
